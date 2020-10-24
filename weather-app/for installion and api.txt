@@ -1,0 +1,23 @@
+**NODEJS PROJECT ON WEATHER APP USING API**
+Google fonts - https://fonts.google.com/specimen/Open+Sans
+For api -https://openweathermap.org/api
+1-signed in weather api
+2- click on API keys
+3- generate Key by your own choice
+4- copy the generated(left hand side) 
+
+Installions (type in terminal of Visual studio code)
+1-npm init
+2-npm install --save express
+3-npm install ejs --save
+4-npm install body-parser --save
+5-npm install request --save
+
+After all the code and installions is done then,
+If you copied form my code.... so type in terminal of Visual studio code
+1-for running the server type (npm server.js)
+//localhost:3000 will start as live server
+2-for shutdown the server press (ctrl+C)
+// then server will close!
+
+**HAPPY CODING**

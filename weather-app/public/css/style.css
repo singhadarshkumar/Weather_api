@@ -1,0 +1,40 @@
+.header {
+  /* float: left; */
+  color: red;
+  text-align: center;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 18px;
+  line-height: 25px;
+  border-radius: 4px;
+  font-family: "Sofia";
+  font-size: 22px;
+}
+
+#main {
+  background-color: aqua;
+}
+
+#in {
+  height: 30px;
+  background-color: yellowgreen;
+  color: black;
+  border: 2px solid green;
+}
+#in:hover {
+  background-color: greenyellow;
+  color: black;
+}
+#but {
+  transition-duration: 0.4s;
+  border: 2px solid green;
+  color: black;
+  background-color: yellowgreen;
+  width: auto;
+  height: 30px;
+}
+
+#but:hover {
+  background-color: greenyellow; /* Green */
+  color: black;
+}

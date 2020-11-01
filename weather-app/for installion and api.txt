@@ -16,7 +16,7 @@ Installions (type in terminal of Visual studio code)
 After all the code and installions is done then,
 If you copied form my code.... so type in terminal of Visual studio code
 1-for running the server type (npm server.js)
-//localhost:3000 will start as live server
+//localhost:5000 will start as live server
 2-for shutdown the server press (ctrl+C)
 // then server will close!
 
